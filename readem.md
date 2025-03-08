@@ -1,28 +1,28 @@
-<h1 align="center">
+# Mega Man Robots API
+
+<h1 align="center"> 
   <br />
   <img
-    src="./_docs/assets/icon.png"
+    src="./_docs/assets/iconnew.png"
     alt="Mega Man Robots API"
     width="150"
   />
   <br />
   <b>Mega Man Robots API</b>
   <br />
-  <sub
-    ><sup><b>(MEGA-MAN-ROBOTS)</b></sup></sub
-  >
+  <sub>
+    <sup><b>(MEGA-MAN-ROBOTS)</b></sup>
+  </sub>
   <br />
-  <a
-    href="https://github.com/felipeAguiarCode/MegaApiDotnetCore/actions/workflows/build.yml"
-  >
+  <a href="https://github.com/DRACKRic/MegaApiDotnetCore/actions/workflows/build.yml">
     <img
-      src="https://github.com/felipeAguiarCode/MegaApiDotnetCore/actions/workflows/build.yml/badge.svg"
-      alt=""
+      src="https://github.com/DRACKRic/MegaApiDotnetCore/actions/workflows/build.yml/badge.svg"
+      alt="Build Status"
     />
   </a>
-  <a href="https://github.com/felipeAguiarCode/MegaApiDotnetCore/releases/latest">
+  <a href="https://github.com/DRACKRic/MegaApiDotnetCore/releases/latest">
     <img
-      src="https://img.shields.io/github/v/release/felipeAguiarCode/MegaApiDotnetCore"
+      src="https://img.shields.io/github/v/release/DRACKRic/MegaApiDotnetCore"
       alt="Latest Release"
     />
   </a>
@@ -95,8 +95,7 @@
     <td>
       <a
         href="https://www.nuget.org/packages/Microsoft.EntityFrameworkCore/3.1.8"
-        >NuGet</a
-      >
+        >NuGet</a>
     </td>
   </tr>
   <tr>
@@ -105,8 +104,7 @@
     <td>
       <a
         href="https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.Design/3.1.8"
-        >NuGet</a
-      >
+        >NuGet</a>
     </td>
   </tr>
   <tr>
@@ -115,8 +113,7 @@
     <td>
       <a
         href="https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.SqlServer/3.1.8"
-        >NuGet</a
-      >
+        >NuGet</a>
     </td>
   </tr>
   <tr>
@@ -128,7 +125,7 @@
   </tr>
 </table>
 
-## :gear: Arch
+## :gear: Architecture
 
 ```🌐
 src
@@ -144,7 +141,10 @@ src
 │   ├── 📂 Repositories     [Repository pattern]
 ```
 
-## License This software is licensed under the terms of the [MIT]
+## License
 
-⌨️ FelipeAguiar -
-[Github](https://github.com/felipeAguiarCode)
+This software is licensed under the terms of the [MIT License](LICENSE).
+
+⌨️ DRACKRic   -
+[Github](https://github.com/DRACKRic)
+[LinkedIn](https://www.linkedin.com/in/ricardosjr/)
