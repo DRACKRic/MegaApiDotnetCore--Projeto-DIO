@@ -20,7 +20,7 @@
       alt="Build Status"
     />
   </a>
-  <a href="https://github.com/DRACKRic/MegaApiDotnetCore/releases/latest">
+  <a href="https://github.com/DRACKRic/MegaApiDotnetCore/releases/latest](https://github.com/DRACKRic/MegaApiDotnetCore--Projeto-DIO/releases/tag/public)">
     <img
       src="https://img.shields.io/github/v/release/DRACKRic/MegaApiDotnetCore"
       alt="Latest Release"
